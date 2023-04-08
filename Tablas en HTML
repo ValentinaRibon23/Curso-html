@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tablas</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Titulo</th>
+                <th>Autor</th>
+                <th>Año de publicacion</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Isla del tesoro</td>
+                <td>Robert Stevenson</td>
+                <td>17 julio 2022</td>
+                <td>https://www.amazon.com/Robert-Louis-Stevenson</td>
+            </tr>
+            <tr>
+                <td>Bajo la misma estrella </td>
+                <td>John Green</td>
+                <td>2012</td>
+                <td>https://www.amazon.com/-/es/John-Green</td>
+            </tr>
+            <tr>
+                <td>Aquí estuvimos</td>
+                <td> Matt de la Peña</td>
+                <td>3 Agosto 2021</td>
+                <td>https://www.amazon.com/-/es/Matt-Pe%C3%B1</td>
+            </tr>
+        </table>
+    </body>
+</html>
