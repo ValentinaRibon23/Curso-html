@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <form action="/"></form>
+        <div>
+            <label for="nombre">Nombre</label>
+            <input name="nombre" id="nombre" required="" >
+        </div>
+        <br>
+        <div>
+            <label for="edad">Edad</label>
+            <input type="number" name="edad" id="edad" min="0" max="100" step="1">
+        </div>
+        <br>
+        <div>
+            <label for="frase">Frase favorita</label>
+            <textarea name="frase" id="frase" ></textarea>
+        </div>
+        <br>
+        <button type="reset">Reset</button>
+        <button type="submit">Enviar</button>
+    </body>
+</html>
